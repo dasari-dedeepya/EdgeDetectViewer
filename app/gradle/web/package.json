@@ -1,0 +1,13 @@
+{
+  "name": "edge-detect-viewer-web",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "start": "npx lite-server"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "lite-server": "^2.6.1"
+  }
+}
