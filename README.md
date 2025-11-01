@@ -25,5 +25,5 @@ Real-time Edge Detection Android app using **Kotlin + OpenCV (C++) + OpenGL ES +
 ## 🌐 Web Viewer
 
 ## 🧠 Edge Detection Viewer (Web)
-![Web Viewer Screenshot](./web/screenshot.png)
+![Web Viewer Screenshot](./web/android_screenshot.png)
 
